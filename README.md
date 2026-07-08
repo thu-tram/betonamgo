@@ -35,6 +35,7 @@ A curated list of Vietnamese language learning resources.
   - [Sleep Podcasts](#sleep-podcasts)
   - [Advanced Learning](#advanced-learning)
 - [News/Blogs/Websites](#newsblogswebsites)
+  - [Comprehensible Input](#comprehensible-input)
   - [News for Children, High Schoolers](#news-for-children-high-schoolers)
     - [Children](#children)
     - [High Schoolers](#high-schoolers)
@@ -260,6 +261,10 @@ idk how should I name this section so nvm.
 - [Vietnamnet](https://vietnamnet.vn/)
 - [Dân trí](https://dantri.com.vn/)
 - [VNExpress](https://vnexpress.net/)
+
+## Comprehensible Input
+
+- [Langiri](https://langiri.com) - Comprehensible Input videos from native speakers. Graded for all levels, with Northern & Southern accents.
 
 ### News for Children, High Schoolers
 
