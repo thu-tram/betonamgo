@@ -129,6 +129,7 @@ A curated list of Vietnamese language learning resources.
 ### Desktop
 
 - [※ Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/) - Spaced repetition flashcard program. A must have. It is tricky to use at first.
+- [Anki Miner](https://github.com/0xzerolight/anki_miner) - Automated Vietnamese vocabulary card creation from video, audio and books.
 - [Unikey](https://www.unikey.org/download.html): Vietnamese Keyboard.
 
 ### Input Methods
