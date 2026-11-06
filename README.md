@@ -208,7 +208,7 @@ A curated list of Vietnamese language learning resources.
 - [Đài Tiếng Nói Việt Nam](https://vov.vn/)
 - [VOH - Đài Tiếng nói Nhân dân TPHCM](https://voh.com.vn/podcast.html) - The official podcast portal of Ho Chi Minh City's radio station, offering a wide array of programs covering news, culture, and entertainment.
 - [VOV Giao Thông](https://vovgiaothong.vn/podcast) - Focuses on urban traffic updates, social issues, and practical daily life talk shows, ideal for listening during commutes.
-- [Roam Radio](https://roamradios.com/) - Free browser directory of live radio streams worldwide; search "Vietnam" to find Vietnamese stations, no account needed.
+- [Roam Radio](https://roamradios.com/region/VN) - Free browser directory of live radio streams worldwide, no account needed.
 
 #### News Podcasts
 
